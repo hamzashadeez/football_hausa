@@ -1,0 +1,23 @@
+Features
+=======
+- Posts
+- Comments
+- Likes
+- Notification
+- Profiles
+- Videos
+- Special post
+
+
+Screens
+========
+- Home
+- Profile
+- Videos
+- Signup
+- Signin
+
+
+Dark = 006D77
+light = EDF6F9
+other = 83C5BE
