@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083734845847",
+    "project_id": "footballhausa-4f8ce",
+    "storage_bucket": "footballhausa-4f8ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083734845847:android:eb72e78725f402174efcd2",
+        "android_client_info": {
+          "package_name": "com.football_hausa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083734845847-arkjn0o8k87avr8dgsmsuispmjj4uf0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlacNFaFwo3Tdt07eJoOHG5jdjjGToLUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083734845847-arkjn0o8k87avr8dgsmsuispmjj4uf0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
